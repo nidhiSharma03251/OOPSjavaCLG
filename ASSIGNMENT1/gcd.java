@@ -1,3 +1,4 @@
+
 public class gcd {
     public static void findGCD(int a, int b){
         while(b!=0){

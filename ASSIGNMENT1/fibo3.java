@@ -1,3 +1,4 @@
+
 public class fibo3 {
     public static void printFiboPrime(int n){
         int a=0;

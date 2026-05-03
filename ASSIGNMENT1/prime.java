@@ -1,3 +1,4 @@
+
 public class prime {
     public static void seiveOfErastosthenes(int n){
         Boolean prime[] = new Boolean[n+1];
