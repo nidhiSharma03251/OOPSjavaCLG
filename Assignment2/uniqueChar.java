@@ -1,5 +1,4 @@
-package assignment2;
-
+package Assignment2;
 public class uniqueChar {
     public static void main(String args[]){
         String str = "nidhi";
